@@ -1,0 +1,6 @@
+[submodule "wp-content/themes"]
+	path = wp-content/themes
+	url = git://github.com/beblog/themes.git
+[submodule "wp-content/plugins"]
+	path = wp-content/plugins
+	url = git://github.com/beblog/plugins.git
